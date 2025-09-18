@@ -1,0 +1,7 @@
+.venv/
+fabiana_pi/
+.micropico
+*.pyc
+__pycache__/
+blink.py
+.vscode/
