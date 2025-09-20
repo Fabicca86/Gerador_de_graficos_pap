@@ -33,8 +33,8 @@ pip install pillow numpy matplotlib
 
 🚀 Como usar
 1. 	Clone o repositório:
-git clone https://github.com/seu-usuario/costa-ponto-cruz.git
-cd costa-ponto-cruz
+git clone https://github.com/Fabicca86/Gerador_de_graficos_pap.git
+cd Gerador_de_graficos_pap
 2. 	Execute o app:
 python app_imagem_pontocruz.py
 3. 	Na interface:
@@ -46,6 +46,18 @@ python app_imagem_pontocruz.py
 💡 Exemplos
 Confira alguns gráficos gerados com diferentes configurações de grade e paleta aqui.
 <img width="2400" height="2400" alt="grafico_ponto_cruz_50x50_50cores" src="https://github.com/user-attachments/assets/ad8fc042-926f-41f9-9942-c87e72f60ceb" />
+
+### Versão Streamlit
+## ✨ Funcionalidades
+
+- Upload de imagem direto pelo navegador
+- Redimensionamento em pontos (grade ajustável)
+- Redução de cores com paleta adaptativa
+- Legenda com nomes aproximados das cores
+- Visualização do gráfico com grade
+- Download do gráfico como imagem com legenda embutida
+
+- Instale as dependências e Rode o app: streamlit run costart_app.py
 
 
 🤝 Contribuições
