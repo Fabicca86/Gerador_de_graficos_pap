@@ -61,7 +61,7 @@ Confira alguns gráficos gerados com diferentes configurações de grade e palet
 - Rode o app: streamlit run costart_app.py
 
 Ou acesse diretamente o link:
- # https://geradordegraficospap-mrdqjcqbe2nuwowj7fbbrp.streamlit.app/
+https://geradordegraficospap-mrdqjcqbe2nuwowj7fbbrp.streamlit.app/
 
 🤝 Contribuições
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests. Este projeto é feito com carinho e está aberto à comunidade!
