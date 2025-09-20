@@ -30,7 +30,7 @@ Ideal para bordadeiras, designers têxteis e amantes do feito à mão!
 
 ```bash
 pip install pillow numpy matplotlib
-
+```
 🚀 Como usar
 1. 	Clone o repositório:
 git clone https://github.com/Fabicca86/Gerador_de_graficos_pap.git
@@ -47,7 +47,7 @@ python app_imagem_pontocruz.py
 Confira alguns gráficos gerados com diferentes configurações de grade e paleta aqui.
 <img width="2400" height="2400" alt="grafico_ponto_cruz_50x50_50cores" src="https://github.com/user-attachments/assets/ad8fc042-926f-41f9-9942-c87e72f60ceb" />
 
-### Versão Streamlit
+# Versão Streamlit
 ## ✨ Funcionalidades
 
 - Upload de imagem direto pelo navegador
@@ -60,8 +60,8 @@ Confira alguns gráficos gerados com diferentes configurações de grade e palet
 - Instale as dependências com:
 - Rode o app: streamlit run costart_app.py
 
-Ou acesse diretamente o link:
-https://geradordegraficospap-mrdqjcqbe2nuwowj7fbbrp.streamlit.app/
+### Ou acesse diretamente o link:
+<https://geradordegraficospap-mrdqjcqbe2nuwowj7fbbrp.streamlit.app/>
 
 🤝 Contribuições
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests. Este projeto é feito com carinho e está aberto à comunidade!
